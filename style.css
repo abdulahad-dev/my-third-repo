@@ -33,7 +33,9 @@ h3{
 .my-super-blog img{
     margin-left: 10px;
     margin-top: 10px;
+    border: 4px solid #f79501;
 }
+
 .blog-details{
     margin: 0px 0px 20px 10px;
 }
