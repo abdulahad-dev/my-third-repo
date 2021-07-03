@@ -39,3 +39,26 @@ h3{
 .blog-details{
     margin: 0px 0px 20px 10px;
 }
+
+.my-blog-post{
+    background-color: #fff;
+    border-right: 90px groove #fb00ff;
+    margin: 60px;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+.my-blog-post .blog-img{
+    width: 40%;
+    display: inline;
+}
+.my-blog-post img{
+    width: auto;
+    height: 250px;
+}
+
+.my-blog-post .blog-post-details{
+    width: 60%;
+    display: inline-block;
+    margin-left: 25px;
+}
